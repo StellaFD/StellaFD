@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @StellaFD
-- 👀 I’m interested in You
-- 🌱 I’m currently learning My Feelin'
-- 💞️ I’m looking to collaborate on Anything
+- 👀 I’m interested in ***
+- 🌱 I’m currently learning ***
+- 💞️ I’m looking to collaborate on ***
 - 📫 How to reach me on Instagram @stella_f_d
-- 😄 Pronouns: She
-- ⚡ Fun fact: Ask me to know
+- 😄 Pronouns: ***
+- ⚡ Fun fact: ***
 
 <!---
 StellaFD/StellaFD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
